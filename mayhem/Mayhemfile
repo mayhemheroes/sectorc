@@ -1,0 +1,5 @@
+project: sectorc
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
